@@ -23,6 +23,8 @@ S12: [Custom VirtualAlloc](https://github.com/S12cybersecurity/VirtualAlloc-Impl
 
 anthonywei: [rc4](https://github.com/anthonywei/rc4)
 
+<br>
+
 ## Note
 - This was a practice project to get me used to simple maldev techniques
 - There's no way on gods blue Earth this is getting past any EDR, lol
